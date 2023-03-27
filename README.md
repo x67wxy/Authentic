@@ -1,4 +1,4 @@
-# HecTic
+# Authentic
 An Advance And Personalized Discord Bot Which Offers Features Like: Moderation, Utility, Logging, VC Cmds, Games, Fun, Autoroles And Much More<br>
 <br> Copyrights: x67wxy©
 <br> Project Protected By: DMCA Protection!
